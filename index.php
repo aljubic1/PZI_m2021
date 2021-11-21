@@ -1,3 +1,7 @@
+<?php
+require "db_baza.php";
+?>
+
 <!doctype html>
 <html lang="en">
   <head>
